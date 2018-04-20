@@ -45,9 +45,9 @@ https://kb.vmware.com/s/article/1002
 	The first two of these will be your class and lab machines.
 
 1. On the third machine run...
-	#cd /lab
-	#./setup_final.sh
-	This will be the machine for the final lab. You will not need it for a while, so 
-	#poweroff now
-	This final setup script is not yet complete.  Contact academy@janusresearch.com for an availability date.
+
+	# cd /lab
+	# ./setup_final.sh
+
+This final setup script is not yet complete.  Contact academy@janusresearch.com for an availability date.
 
