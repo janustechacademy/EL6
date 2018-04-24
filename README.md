@@ -38,6 +38,7 @@ https://kb.vmware.com/s/article/1002
 	# yum -y install git
 	# cd /
 	# git clone https://github.com/janustechacademy/EL6
+	# tar -xf /EL6/setup.tar
 	
 * On all of the machines run...
 	# cd /lab
@@ -46,8 +47,6 @@ https://kb.vmware.com/s/article/1002
 
 * On the third machine, which will be used only for the final lab, run...
 
-	# cd /lab
-	# ./setup_final.sh
+	# /EL6/setup_final.sh
 
-This final setup script is not yet complete.  Contact academy@janusresearch.com for an availability date.
 
