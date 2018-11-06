@@ -38,15 +38,14 @@ https://kb.vmware.com/s/article/1002
 	# yum -y install git
 	# cd /
 	# git clone https://github.com/janustechacademy/EL6
-	# tar -xf /EL6/setup.tar
+	# tar -xvf /EL6/setup.tar
 	
 * On all of the machines run...
-	# cd /lab
-	# ./setup_lab.sh
+	# /lab/setup_lab.sh
 	The first two of these will be your class and lab machines.
 
 * On the third machine, which will be used only for the final lab, run...
 
-	# /EL6/setup_final.sh
+	# /lab/setup_final.sh
 
 
