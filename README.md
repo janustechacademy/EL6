@@ -47,5 +47,11 @@ https://kb.vmware.com/s/article/1002
 * On the third machine, which will be used only for the final lab, run...
 
 	# /lab/setup_final.sh
+	
+	This file is currently broken -- to fix it:
+		vi /lab/setup_final.sh
+		:set fileformat=unix
+		:wq!
+	before running it.
 
 
